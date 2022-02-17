@@ -1,0 +1,23 @@
+DESAFIO 1: NUBANK - Yes She Codes 2022
+Testes de programação para vaga na area de desenvolvimento do Banco Nubank.
+#linguagem utilizada: Python
+#IDE: Pycharm
+
+_________________________________________________________________________________________________________
+DESAFIOS 2,3,4: BANCO BARI - Vaga Efetiva
+Testes de programação para vaga na area de desenvolvimento do Banco Bari.
+#linguagem utilizada: Python
+#IDE: Pycharm
+
+1) Faça um algoritmo para ler um valor e some 15%. Após diminua 8%.
+Imprima o valor inicial e valor final. Calcule e mostre a divisão do valor
+inicial pelo valor final. Trate possíveis validações de erro de divisão.
+
+2) O preço final de um produto é calculado pela soma do preço bruto com o preço dos impostos
+(30% do preço bruto) e a percentagem do revendedor (28% do preço bruto). Faça um algoritmo que
+leia o nome do produto e o preço bruto e escreva o nome do produto e o preço final.
+
+3) Faça um algoritmo para ler quatro números e mostre a sua média ponderada
+(as notas têm pesos respectivos de 1, 1, 2 e 3).
+
+LinkedIn: https://www.linkedin.com/in/ronicacsrodrigues/
